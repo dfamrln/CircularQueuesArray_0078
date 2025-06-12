@@ -35,5 +35,6 @@ class Queues
                 FRONT = 0;
                 REAR = 0;
             }
+            else
         }
 }
